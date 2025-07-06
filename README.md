@@ -23,7 +23,8 @@ A full-stack web application for project management with AI-powered features. Bu
 - Node.js (v16+ recommended)
 - npm or yarn
 - (Optional) Redis server for real-time features
-
+### preview:
+https://github.com/user-attachments/assets/0782194b-5d60-4899-b1f2-e7b6871ce09e
 ### Installation
 
 #### Backend
@@ -61,15 +62,6 @@ soen-main/
   backend/      # Express backend (API, services, models)
   frontend/     # React frontend (Vite, Tailwind, components)
 ```
-
-## Contributing
-
-Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
-
-## License
-
-[MIT](LICENSE) (or specify your license)
-
 ## Acknowledgements
 - [Express](https://expressjs.com/)
 - [React](https://react.dev/)
@@ -78,5 +70,5 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 - [Redis](https://redis.io/) 
 
 
-https://github.com/user-attachments/assets/0782194b-5d60-4899-b1f2-e7b6871ce09e
+
 
