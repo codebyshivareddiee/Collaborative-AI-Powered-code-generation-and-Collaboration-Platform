@@ -1,4 +1,4 @@
-# SOEN Main
+# Collaborative-AI-Powered-code-generation-and-Collaboration-Platform
 
 A full-stack web application for project management with AI-powered features. Built with Node.js/Express backend and React frontend, including user authentication, project management, and AI integration.
 
@@ -76,3 +76,7 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 - [Vite](https://vitejs.dev/)
 - [Tailwind CSS](https://tailwindcss.com/)
 - [Redis](https://redis.io/) 
+
+
+https://github.com/user-attachments/assets/0782194b-5d60-4899-b1f2-e7b6871ce09e
+
