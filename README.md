@@ -14,8 +14,9 @@ A full-stack web application for project management with AI-powered features. Bu
 
 - **Frontend:** React, Vite, Tailwind CSS
 - **Backend:** Node.js, Express
-- **Database:** (Specify, e.g., MongoDB/PostgreSQL if known)
+- **Database:**  MongoDB
 - **Cache/Realtime:** Redis
+- Api- google generatie ai
 
 ## Getting Started
 
